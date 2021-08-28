@@ -6,7 +6,7 @@ Tg autofilterbotv2 created farshad
 
   </a>
   
-  <a href="https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2/fork">
+  <a href="https://github.com/farshadpyt/advansedautofilterbotv2/fork">
     <img src="https://img.shields.io/github/forks/CrazyBotsz/Adv-Auto-Filter-Bot-V2?label=Fork&style=social">
 
   </a>  
