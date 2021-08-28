@@ -180,7 +180,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/farshadpyt/advansedautofilterbotv2/edit/main/README.md">
+<a href="https://heroku.com/deploy?template=https://github.com/farshadpyt/advansedautofilterbotv2">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -189,8 +189,8 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2
-cd Adv-Auto-Filter-Bot-V2
+git clone https://github.com/farshadpyt/advansedautofilterbotv2
+cd advansedautofilterbotv2
 pip3 install -r requirements.txt
 # Change The Vars Of bot/__init__.py File Accordingly
 python3 -m bot
