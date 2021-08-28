@@ -4,6 +4,10 @@ Tg autofilterbotv2 created farshad
   <a href="https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2/stargazers">
     <img src="https://img.shields.io/github/stars/CrazyBotsz/Adv-Auto-Filter-Bot-V2?style=social">
 
+<img
+            src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+My+Autofilter+BOT+codded+by+farshad..."
+            alt="Typing SVG"
+        />
   </a>
   
   <a href="https://github.com/farshadpyt/advansedautofilterbotv2/fork">
